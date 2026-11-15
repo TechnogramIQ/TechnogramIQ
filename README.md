@@ -12,13 +12,15 @@ I build and document end-to-end projects across cloud platforms and database env
 
 ## Latest Projects
 
+**AWS Production Infrastructure**
+- **AWS Terraform Production Stack** - Production-style AWS deployment built and run with Terraform: Graviton EC2 with a containerised app, Postgres and Caddy, keyless GitHub Actions deploys via OIDC and SSM (no SSH), secrets in Parameter Store, nightly S3 backups, budget alerts, and CI with Terraform tests, tflint and Checkov. Includes a real incident write-up.
+
 **Developer Tooling**
 - **CloudCheck** - VS Code extension for inline compliance linting of Bicep, Terraform and ARM templates. 38 rules across 11 categories mapped to CIS Azure Benchmark and CAF. Published on the VS Code Marketplace.
 - **CloudCheck Action** - GitHub Action that scans IaC changed in a pull request, posts a compliance score and findings table as a PR comment, and fails the build on critical issues.
 
-**FinOps & Web**
+**FinOps & Tooling**
 - **Cloud Cost Anomaly Alerter** - Detects Azure spend spikes against a rolling 7-day baseline, explains the likely cause in plain English, gives the exact CLI fix, and alerts via Slack or Teams.
-- **[RankCore](https://rankcore.app)** - Tech skills and certification comparison site, with a page ranking cloud and tech jobs. Runs on AWS with Terraform.
 - **[Cloud Engineering Toolkit](https://janeologhadien.github.io/cloud-engineering-toolkit/)** - Free, open-source toolkit for Azure, AWS and Google Cloud: check templates against CIS Azure Benchmark security rules, compare services across clouds, plan networks and generate Terraform, Bicep and Kubernetes code in the browser. [Try it live](https://janeologhadien.github.io/cloud-engineering-toolkit/) · [View code](https://github.com/janeologhadien/cloud-engineering-toolkit)
 
 ## Cloud & Infrastructure (Azure)
