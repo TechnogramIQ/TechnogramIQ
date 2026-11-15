@@ -1,6 +1,6 @@
 # Cloud Infrastructure & Data Engineer
 
-Systems Administrator | Cloud Infrastructure & Data Engineer | AWS Solutions Architect Associate
+Systems Administrator | Cloud Infrastructure & Data Engineer | AWS Solutions Architect Associate | Microsoft Azure Administrator Associate (AZ-104)
 
 4+ years of hands-on experience across systems administration, cloud infrastructure, and data engineering, with a strong foundation in both operational reliability and structured data management.
 
