@@ -6,9 +6,9 @@ Systems Administrator | Cloud Infrastructure & Data Engineer | AWS Solutions Arc
 
 I build and document end-to-end projects across cloud platforms and database environments: real deployments, genuine constraints, and honest writeups of what broke and how it was fixed. Every project includes a full architecture writeup, a reproducible setup guide, and working evidence.
 
-**🌐 Portfolio: [janeologhadien.github.io](https://janeologhadien.github.io)**
+**🌐 Portfolio: [technogramiq.github.io](https://technogramiq.github.io)**
 
-> 🔒 Project source code is private. Request access through the [portfolio site](https://janeologhadien.github.io) and I'll share the repository.
+> 🔒 Project source code is private. Request access through the [portfolio site](https://technogramiq.github.io) and I'll share the repository.
 
 ## Latest Projects
 
@@ -21,7 +21,7 @@ I build and document end-to-end projects across cloud platforms and database env
 
 **FinOps & Tooling**
 - **Cloud Cost Anomaly Alerter** - Detects Azure spend spikes against a rolling 7-day baseline, explains the likely cause in plain English, gives the exact CLI fix, and alerts via Slack or Teams.
-- **[Cloud Engineering Toolkit](https://janeologhadien.github.io/cloud-engineering-toolkit/)** - Free, open-source toolkit for Azure, AWS and Google Cloud: check templates against CIS Azure Benchmark security rules, compare services across clouds, plan networks and generate Terraform, Bicep and Kubernetes code in the browser. [Try it live](https://janeologhadien.github.io/cloud-engineering-toolkit/) · [View code](https://github.com/janeologhadien/cloud-engineering-toolkit)
+- **[Cloud Engineering Toolkit](https://technogramiq.github.io/cloud-engineering-toolkit/)** - Free, open-source toolkit for Azure, AWS and Google Cloud: check templates against CIS Azure Benchmark security rules, compare services across clouds, plan networks and generate Terraform, Bicep and Kubernetes code in the browser. [Try it live](https://technogramiq.github.io/cloud-engineering-toolkit/) · [View code](https://github.com/TechnogramIQ/cloud-engineering-toolkit)
 
 ## Cloud & Infrastructure (Azure)
 
